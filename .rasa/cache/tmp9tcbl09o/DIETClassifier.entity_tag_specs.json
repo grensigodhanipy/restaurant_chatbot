@@ -1,0 +1,20 @@
+[
+  {
+    "tag_name": "entity",
+    "ids_to_tags": {
+      "1": "B-wikipedia_query",
+      "2": "I-wikipedia_query",
+      "3": "L-wikipedia_query",
+      "4": "U-wikipedia_query",
+      "0": "O"
+    },
+    "tags_to_ids": {
+      "B-wikipedia_query": 1,
+      "I-wikipedia_query": 2,
+      "L-wikipedia_query": 3,
+      "U-wikipedia_query": 4,
+      "O": 0
+    },
+    "num_tags": 5
+  }
+]

@@ -1,0 +1,7 @@
+what is subway:
+Subway IP LLC, doing business as Subway (stylized in all caps), is an American multinational fast food restaurant franchise that specializes in submarine sandwiches (subs), wraps, salads, and drinks.
+
+content:
+-restaurant
+-menu
+-history
